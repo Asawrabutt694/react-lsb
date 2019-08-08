@@ -1,0 +1,7 @@
+git init  					for initializing a project
+git status					for checking status of project
+git add . 					move to staging area
+git commit -m "hello"		finalize your work
+git push origin <master>    push your work to remote
+git checkout -b "sbc"	 	moving and making new branch  
+git branch 					show total branches
